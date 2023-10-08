@@ -9,7 +9,6 @@ body {
   font-size: 5rem;
   display: grid;
   place-content: center;
-  color: white;
 }
 
 input,
